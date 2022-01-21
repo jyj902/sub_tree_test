@@ -1,0 +1,2 @@
+com/hnh/poseengine/BuildConfig.java
+ com.hnh.poseengine.BuildConfig

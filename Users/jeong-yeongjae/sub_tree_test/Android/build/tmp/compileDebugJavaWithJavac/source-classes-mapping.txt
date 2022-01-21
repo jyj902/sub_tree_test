@@ -1,0 +1,2 @@
+com/hnh/healthapp/android/BuildConfig.java
+ com.hnh.healthapp.android.BuildConfig

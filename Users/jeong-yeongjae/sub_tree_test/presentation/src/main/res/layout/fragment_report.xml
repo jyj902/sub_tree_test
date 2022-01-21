@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="30dp"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/TextAppearance.Material3.HeadlineMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/title_home_report" />
+
+        <Button
+            android:id="@+id/button_go_report"
+            style="@style/Widget.Material3.Button.ElevatedButton"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/login_button_height"
+            android:layout_marginVertical="10dp"
+            android:text="운동분석 보러가기" />
+
+        <com.github.mikephil.charting.charts.PieChart
+            android:id="@+id/chart_exercise_time"
+            android:layout_width="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_height="250dp"
+            android:visibility="gone" />
+
+        <com.github.mikephil.charting.charts.PieChart
+            android:id="@+id/chart_exercise_count"
+            android:layout_width="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_height="250dp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/text_view_empty"
+            style="@style/TextAppearance.Material3.BodyLarge"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:text="보여줄 데이터가 없습니다 \n운동해주세요"
+            android:visibility="visible" />
+
+    </LinearLayout>
+</layout>

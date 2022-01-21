@@ -1,0 +1,18 @@
+{
+    "id":2055854401,
+    "connected_at":"2022-01-03T06:52:39Z",
+    "properties":{
+        "nickname":"kihoon kim"
+    },
+    "kakao_account":{
+        "profile_nickname_needs_agreement":false,
+        "profile":{
+            "nickname":"kihoon kim"
+        },
+        "has_email":true,
+        "email_needs_agreement":false,
+        "is_email_valid":true,
+        "is_email_verified":true,
+        "email":"ki_hoon@hotmail.com"
+    }
+}

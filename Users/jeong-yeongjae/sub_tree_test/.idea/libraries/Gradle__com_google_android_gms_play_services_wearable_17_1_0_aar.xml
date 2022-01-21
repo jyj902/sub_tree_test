@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-wearable:17.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/ca56662c3b960eb6891cf2fe54db70ae/transformed/jetified-play-services-wearable-17.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/aa3c241ffa3e95a3f5fcdda39bc25271/transformed/jetified-play-services-wearable-17.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/9a91b9424d41a05dea4cb89bbd905e4d/transformed/play-services-wearable-17.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-3/9a91b9424d41a05dea4cb89bbd905e4d/transformed/play-services-wearable-17.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-3/9a91b9424d41a05dea4cb89bbd905e4d/transformed/play-services-wearable-17.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-wearable/17.1.0/39a6df362e18980fb1c5a72f613e9798cd75a7a7/play-services-wearable-17.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
