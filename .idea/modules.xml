@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.iml" filepath="$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.androidAndroidTestRelease.iml" filepath="$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.androidAndroidTestRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/poseEngine/KMM.PoseEngine.iosX64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KMM.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KMM.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMM.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/KMM.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/KMM.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/KMM.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/KMM.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/KMM.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/healthwatch/KMM.healthwatch.iml" filepath="$PROJECT_DIR$/.idea/modules/healthwatch/KMM.healthwatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation/KMM.presentation.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation/KMM.presentation.iml" />
+    </modules>
+  </component>
+</project>

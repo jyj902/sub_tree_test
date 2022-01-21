@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">healthWatch</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="voice_info">운동 시작/종료를 위해 하단 음성 인식 버튼을 눌러주세요.</string>
+
+    <string name="no_device">No device provides the requested capabilities</string>
+    <string name="connected_nodes">Nodes: %1$s</string>
+</resources>

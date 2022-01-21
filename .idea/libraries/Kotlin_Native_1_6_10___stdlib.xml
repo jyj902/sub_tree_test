@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Kotlin/Native 1.6.10 - stdlib" type="kotlin.native">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.konan/kotlin-native-prebuilt-macos-aarch64-1.6.10/klib/common/stdlib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.konan/kotlin-native-prebuilt-macos-aarch64-1.6.10/sources/kotlin-stdlib-native-sources.zip!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FitGAI</string>
+    <string name="title_home">홈</string>
+    <string name="title_pose_detector">운동하기</string>
+    <string name="title_course">홈화면</string>
+</resources>

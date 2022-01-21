@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:2:1-18:12
+MERGED from [:PoseEngine] /Users/jeong-yeongjae/Downloads/KMM_220113/PoseEngine/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/5718512c0a1f2ebf0674d7e13cca5f10/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/21825b773a70de23875d7b6d7f8f189a/transformed/constraintlayout-2.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/689636467447d5c031f2fe792142644e/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/b80489ed8209afd331ae6a10ce714421/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/95f2cba69198f4a2445933320507a932/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/9bf6806d43ecc0cce91b2d85d7d384a4/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/c21ee38bd5664da2423b3639b0adb632/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/a62f6826403d5e0a2901fda1f1c6a8d8/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/069550e20702c6536a6bb28576d1e4c6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/f541be1d3b17c8f767eaba6542c10e4e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/e1ada251bc519626ec6f20dde689346c/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/jeong-yeongjae/.gradle/caches/transforms-3/8e0d47f8af9876c331c7000a6f07cf49/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/jeong-yeongjae/.gradle/caches/transforms-3/2b26c7c8ee0e1afa3972e424ccd5c72a/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/4d3d0f8a0b00c93cb8fd6994c07ac862/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/f1276f2db9d97d8212d1932930b69269/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/07130f166528d10ac4602b3a13a790d7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/d54c6c41161c41346587c214750b6e55/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/07eafbbb7d0c55b91f5e706416e652ca/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/340cc3a0ff5131cb2b97fed47bc1764c/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/cf35fa5dcf91f392beb07169c349a516/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/40c65226af8b4e3c9daea881edefd7a2/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/b16196c869b5ee52295712af7da11715/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/dc47ec2d289f003b79658c1c816ffd11/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/6e1485c06ffd1bb89ef98bce0e613b49/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/a58f89724263259754fd6cf727683601/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/68fefd94222386a6ca04600c578fb267/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/b70437e17aa7d0e890cc3082834832f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/858322179bdf7ab40a61ebfadf59226b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/75eba9b498a49a082f56be38e7471c8e/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/a9940fc386e198f4c1d7d5ace859faa6/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/6abf52061c55e22f105ced4a17feff3f/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/0041eb33cd8dac68eb1c29ddba2eec0b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/fc4c80736406be20544ee01b1317c0f2/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/91bcbf59f9ea9231c60a72b26aa1f678/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/0a04f64d4aacf4f61ae561f0f0118d2b/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
+		ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:2:1-18:12
+		INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
+		ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:2:1-18:12
+		INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:5:5-17:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/5718512c0a1f2ebf0674d7e13cca5f10/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/5718512c0a1f2ebf0674d7e13cca5f10/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/21825b773a70de23875d7b6d7f8f189a/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/21825b773a70de23875d7b6d7f8f189a/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/cf35fa5dcf91f392beb07169c349a516/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/cf35fa5dcf91f392beb07169c349a516/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/68fefd94222386a6ca04600c578fb267/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/68fefd94222386a6ca04600c578fb267/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/cf35fa5dcf91f392beb07169c349a516/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:7:9-35
+	android:allowBackup
+		ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:6:9-36
+	android:theme
+		ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:8:9-40
+activity#com.hnh.healthapp.android.MainActivity
+ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:9:9-16:20
+	android:exported
+		ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:10:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
+INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
+MERGED from [:PoseEngine] /Users/jeong-yeongjae/Downloads/KMM_220113/PoseEngine/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:PoseEngine] /Users/jeong-yeongjae/Downloads/KMM_220113/PoseEngine/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/5718512c0a1f2ebf0674d7e13cca5f10/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/5718512c0a1f2ebf0674d7e13cca5f10/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/21825b773a70de23875d7b6d7f8f189a/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/21825b773a70de23875d7b6d7f8f189a/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/689636467447d5c031f2fe792142644e/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/689636467447d5c031f2fe792142644e/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/b80489ed8209afd331ae6a10ce714421/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/b80489ed8209afd331ae6a10ce714421/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/95f2cba69198f4a2445933320507a932/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/95f2cba69198f4a2445933320507a932/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/9bf6806d43ecc0cce91b2d85d7d384a4/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/9bf6806d43ecc0cce91b2d85d7d384a4/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/c21ee38bd5664da2423b3639b0adb632/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/c21ee38bd5664da2423b3639b0adb632/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/a62f6826403d5e0a2901fda1f1c6a8d8/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/a62f6826403d5e0a2901fda1f1c6a8d8/transformed/appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/069550e20702c6536a6bb28576d1e4c6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/069550e20702c6536a6bb28576d1e4c6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/f541be1d3b17c8f767eaba6542c10e4e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/f541be1d3b17c8f767eaba6542c10e4e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/e1ada251bc519626ec6f20dde689346c/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/e1ada251bc519626ec6f20dde689346c/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/jeong-yeongjae/.gradle/caches/transforms-3/8e0d47f8af9876c331c7000a6f07cf49/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/jeong-yeongjae/.gradle/caches/transforms-3/8e0d47f8af9876c331c7000a6f07cf49/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/jeong-yeongjae/.gradle/caches/transforms-3/2b26c7c8ee0e1afa3972e424ccd5c72a/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/jeong-yeongjae/.gradle/caches/transforms-3/2b26c7c8ee0e1afa3972e424ccd5c72a/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/4d3d0f8a0b00c93cb8fd6994c07ac862/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/4d3d0f8a0b00c93cb8fd6994c07ac862/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/f1276f2db9d97d8212d1932930b69269/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/f1276f2db9d97d8212d1932930b69269/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/07130f166528d10ac4602b3a13a790d7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/07130f166528d10ac4602b3a13a790d7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/d54c6c41161c41346587c214750b6e55/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/d54c6c41161c41346587c214750b6e55/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/07eafbbb7d0c55b91f5e706416e652ca/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/07eafbbb7d0c55b91f5e706416e652ca/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/340cc3a0ff5131cb2b97fed47bc1764c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/340cc3a0ff5131cb2b97fed47bc1764c/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/cf35fa5dcf91f392beb07169c349a516/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/cf35fa5dcf91f392beb07169c349a516/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/40c65226af8b4e3c9daea881edefd7a2/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/40c65226af8b4e3c9daea881edefd7a2/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/b16196c869b5ee52295712af7da11715/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/b16196c869b5ee52295712af7da11715/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/dc47ec2d289f003b79658c1c816ffd11/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/dc47ec2d289f003b79658c1c816ffd11/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/6e1485c06ffd1bb89ef98bce0e613b49/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/6e1485c06ffd1bb89ef98bce0e613b49/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/a58f89724263259754fd6cf727683601/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/a58f89724263259754fd6cf727683601/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/68fefd94222386a6ca04600c578fb267/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/68fefd94222386a6ca04600c578fb267/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/b70437e17aa7d0e890cc3082834832f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/b70437e17aa7d0e890cc3082834832f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/858322179bdf7ab40a61ebfadf59226b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/jeong-yeongjae/.gradle/caches/transforms-3/858322179bdf7ab40a61ebfadf59226b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/75eba9b498a49a082f56be38e7471c8e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/75eba9b498a49a082f56be38e7471c8e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/a9940fc386e198f4c1d7d5ace859faa6/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/a9940fc386e198f4c1d7d5ace859faa6/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/6abf52061c55e22f105ced4a17feff3f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/6abf52061c55e22f105ced4a17feff3f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/0041eb33cd8dac68eb1c29ddba2eec0b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/0041eb33cd8dac68eb1c29ddba2eec0b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/fc4c80736406be20544ee01b1317c0f2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/fc4c80736406be20544ee01b1317c0f2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/91bcbf59f9ea9231c60a72b26aa1f678/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/91bcbf59f9ea9231c60a72b26aa1f678/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/0a04f64d4aacf4f61ae561f0f0118d2b/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/jeong-yeongjae/.gradle/caches/transforms-3/0a04f64d4aacf4f61ae561f0f0118d2b/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
+INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
+		ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
+		ADDED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeong-yeongjae/Downloads/KMM_220113/Android/src/main/AndroidManifest.xml
