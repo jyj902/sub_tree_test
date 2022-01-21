@@ -1,6 +1,0 @@
-framework module PoseEngine {
-    umbrella header "PoseEngine.h"
-
-    export *
-    module * { export * }
-}

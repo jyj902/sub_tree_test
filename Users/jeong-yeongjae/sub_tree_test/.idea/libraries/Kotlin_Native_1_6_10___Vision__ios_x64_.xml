@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Kotlin/Native 1.6.10 - Vision [ios_x64]" type="kotlin.native">
-    <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.konan/kotlin-native-prebuilt-macos-aarch64-1.6.10/klib/platform/ios_x64/org.jetbrains.kotlin.native.platform.Vision" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
